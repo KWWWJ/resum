@@ -74,12 +74,17 @@ i {
     margin-right: 20px;
 }
 
+.box-right{
+    width: 600px;
+}
+
 .projet-img{
     width: 300px;
 }
 
 .stack-img{
     display: flex;
+    align-items: center
 }
 
 .stack-img img{
@@ -90,7 +95,7 @@ i {
 
 #html-css-js{
     width: 160px;
-    height: 90px;
+    height: 80px;
 }
 
 .line {
