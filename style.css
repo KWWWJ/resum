@@ -66,6 +66,10 @@ i {
     display: flex;
 }
 
+.box-left{
+    margin-right: 20px;
+}
+
 .projet-img{
     width: 300px;
 }
@@ -86,6 +90,6 @@ i {
 
 .line {
     border-bottom: 1px solid black;
-    width: 70%;
+    width: 850px;
     margin: 20px 0;
 }
