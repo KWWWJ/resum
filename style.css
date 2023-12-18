@@ -57,9 +57,13 @@ i {
     border-right: 1px solid lightgray;
 }
 
-.email{
+.info-box{
     display: flex;
     text-align: center;
+}
+
+.blog-icon {
+    width: 20px;
 }
 
 .projecrt-box{
