@@ -63,7 +63,7 @@ i {
 }
 
 .blog-icon {
-    width: 20px;
+    width: 16px;
 }
 
 .projecrt-box{
@@ -84,12 +84,13 @@ i {
 
 .stack-img img{
     width: 50px;
+    height: 50px;
     margin-right: 5px;
 }
 
 #html-css-js{
     width: 160px;
-    height: 50px;
+    height: 90px;
 }
 
 .line {
