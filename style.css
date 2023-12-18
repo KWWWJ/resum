@@ -56,3 +56,8 @@ i {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+
+.email{
+    display: flex;
+    text-align: center;
+}
