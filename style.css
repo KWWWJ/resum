@@ -103,3 +103,15 @@ i {
     width: 850px;
     margin: 20px 0;
 }
+
+@media(max-width : 760px){
+    main{
+        display: block;
+        grid-template-columns: 40% 60%; 
+        margin-top: 3rem;
+    }
+
+    .projecrt-box{
+        display: block;
+    }
+}
