@@ -100,7 +100,7 @@ i {
 
 .line {
     border-bottom: 1px solid black;
-    width: 850px;
+    width: 100vh;
     margin: 20px 0;
 }
 
