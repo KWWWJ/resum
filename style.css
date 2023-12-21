@@ -121,10 +121,13 @@ i {
 .stack-box{
     display: flex;
     width: 100%;
+    margin-bottom: 20px;
 }
 
 .stack-box-left{
     text-align: center;
+    width: 20%;
+    margin-right: 20px;
     font-size: 15px;
     font-weight: 700;
 }
@@ -136,6 +139,11 @@ i {
 
 .stack-box-right img{
    width: 20%;
+   margin-right: 10px;
+}
+
+.html-stack {
+    width: 50%;
 }
 
 @media(max-width : 760px){
