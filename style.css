@@ -92,13 +92,12 @@ i {
 
 .stack-img img{
     width: 50px;
-    height: 50px;
     margin-right: 5px;
 }
 
 #html-css-js{
-    width: 160px;
-    height: 80px;
+    width: 140px;
+    height: 60px;
 }
 
 .line {
@@ -108,7 +107,15 @@ i {
 
 .my-img{
     width: 20%;
-    
+    border-radius: 100%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.my-img img{
+    width: 100%;
 }
 
 @media(max-width : 760px){
