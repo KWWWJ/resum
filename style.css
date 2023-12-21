@@ -118,6 +118,26 @@ i {
     width: 100%;
 }
 
+.stack-box{
+    display: flex;
+    width: 100%;
+}
+
+.stack-box-left{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.stack-box-right{
+    display: flex;
+    width: 100%;
+}
+
+.stack-box-right img{
+   width: 20%;
+}
+
 @media(max-width : 760px){
     main{
         display: block;
